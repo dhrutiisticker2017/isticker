@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>Test CanJs</title>
+        <title>Test CanJsq</title>
     </head
     <body
         <div class="container">
